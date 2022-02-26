@@ -8,3 +8,4 @@ import { sayHello } from "./input.js";
 console.log("index.js");
 
 sayHello();
+// 9:23
